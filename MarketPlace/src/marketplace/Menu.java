@@ -74,7 +74,7 @@ public class Menu {
                     break;
                 case 3:
                     System.out.println("");
-                    System.out.println("== Produtos em ordem Alfabética");
+                    System.out.println("== Produtos em ordem Alfabética ==");
                     exibirProdutosEmOrdemAlfabetica();
                     break;
                 case 4:
